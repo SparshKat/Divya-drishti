@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "method-override": "^3.0.0",
     "mongodb": "^3.1.10",
-    "mongoose": "^5.4.3",
+    "mongoose": "^5.7.5",
     "node-wav": "0.0.2",
     "say": "^0.15.0",
     "wavefile": "^8.4.4"
